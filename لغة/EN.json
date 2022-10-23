@@ -4,10 +4,10 @@
     "AUTHOR"  : "sanuwa official",
     "STRINGS" : { 
                   "aqua" : {   
-                            "COMMAND"  : "Command",
-                            "DESC"     : "Description",
-                            "EXAMPLE"  : "Example",
-                            "NOT_FOUND": "*I couldnt find a command like this*",
+                            "COMMAND"  : "يأمر",
+                            "DESC"     : "وصف",
+                            "EXAMPLE"  : "مثال",
+                            "NOT_FOUND": "*لم أتمكن من العثور على أمر مثل هذا*",
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
@@ -40,7 +40,7 @@
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
+                              "NEED"   : "*🧜‍♀️💬 يرجى ذكر صورة أو مقطع فيديو*" ,
                               "C_STIC" : "```🧰creating sticker...```" ,
                               "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
                               "C_IMG"  : "```🧰converting sticker to image...```" ,
