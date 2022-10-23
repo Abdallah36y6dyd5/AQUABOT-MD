@@ -40,7 +40,7 @@
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
+                              "NEED"   : "*🧜‍♀️💬 يرجى ذكر صورة أو مقطع فيديو*" ,
                               "C_STIC" : "```🧰creating sticker...```" ,
                               "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
                               "C_IMG"  : "```🧰converting sticker to image...```" ,
